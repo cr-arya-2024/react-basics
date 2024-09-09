@@ -1,0 +1,21 @@
+
+.card{
+  border: 2px solid rgba(192, 192, 192, 0.623);
+  box-shadow: 5px 5px 5px rgba(179, 179, 179, 0.582);
+  padding:25px;
+  margin: 20px;
+  border-radius: 15px;
+  max-width: 250px;
+  display: inline-block;
+text-align: center;
+
+}
+.card-img{
+  border-radius: 5px;
+  
+  margin-bottom: 0px;
+}
+h2{
+margin:8px;
+color:rgba(0, 0, 0, 0.514);
+}
